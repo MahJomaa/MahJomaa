@@ -13,13 +13,12 @@
 
 - 🏢 I'm a junior Front-End developer and Data Science learner with a passion for creating user-friendly web interfaces and analyzing data.
 - 👨‍💻 With over 15 years of experience teaching advanced mathematics to high school and university prep students, I bring a strong analytical mindset to coding.
-⚡ Fun Fact: I love solving math puzzles, and coding feels like solving a puzzle with endless possibilities!
+- ⚡ Fun Fact: I love solving math puzzles, and coding feels like solving a puzzle with endless possibilities!
 
 
 ### Connect with Me :
 
 
-<a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
