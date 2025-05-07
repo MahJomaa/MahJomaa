@@ -2,17 +2,8 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Mahmoud Jomaa</h3>
 
-<!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reemoon-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
-<p align="center">
-  <a href="https://www.ds.mahmoudjomaa@gmail.com">Gmail</a> •
-  <a href="https://t.me/hmntod">Telegram</a>
-</p>
-
- <!-- About section -->
+<!-- About section -->
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdjenBvNmdoM2NiNHU3eWVyMmFodWQ4NGR6cGZkbjkyeXk2dWNzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
@@ -22,9 +13,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Front-End%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a junior Front-End developer and Data Science learner with a passion for creating user-friendly web interfaces and analyzing data.
-- 👨‍💻 With over 15 years of experience teaching advanced mathematics to high school and university prep students, I bring a strong analytical mindset to coding.
-- ⚡ Fun Fact: I love solving math puzzles, and coding feels like solving a puzzle with endless possibilities!
+🏢 I'm a junior Front-End developer and Data Science learner with a passion for creating user-friendly web interfaces and analyzing data.
+👨‍💻 With over 15 years of experience teaching advanced mathematics to high school and university prep students, I bring a strong analytical mindset to coding.
+⚡ Fun Fact: I love solving math puzzles, and coding feels like solving a puzzle with endless possibilities!
 
 
 ### Connect with Me :
