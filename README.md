@@ -3,7 +3,7 @@
 
 <h3 align="center">
   Welcome to Mahmoud Jomaa's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdjenBvNmdoM2NiNHU3eWVyMmFodWQ4NGR6cGZkbjkyeXk2dWNzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
