@@ -14,7 +14,9 @@
 </p> 
 
 🏢 I'm a junior Front-End developer and Data Science learner with a passion for creating user-friendly web interfaces and analyzing data.
+
 👨‍💻 With over 15 years of experience teaching advanced mathematics to high school and university prep students, I bring a strong analytical mindset to coding.
+
 ⚡ Fun Fact: I love solving math puzzles, and coding feels like solving a puzzle with endless possibilities!
 
 
