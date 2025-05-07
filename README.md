@@ -1,9 +1,18 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Mahmoud Jomaa</h3>
 
-<h3 align="center">
-  Welcome to Mahmoud Jomaa's profile!
-  
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reemoon-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<p align="center">
+  <a href="https://www.ds.mahmoudjomaa@gmail.com">Gmail</a> •
+  <a href="https://t.me/hmntod">Telegram</a>
+</p>
+
+ <!-- About section -->
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdjenBvNmdoM2NiNHU3eWVyMmFodWQ4NGR6cGZkbjkyeXk2dWNzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
